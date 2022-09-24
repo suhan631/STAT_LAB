@@ -362,6 +362,8 @@ p.value3<-pchisq(chisquare,df)
 
 
 					###################### Myself According to book ###################
+#H0: sigma2=1500
+#H1: sigma2!=1500
 x1<-c(160,172,121,144,100,108,175,200,105,95,102)
 sigma2 = 1500
 n = length(x1)
